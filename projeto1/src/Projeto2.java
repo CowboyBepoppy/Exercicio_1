@@ -122,8 +122,7 @@ public class Projeto2 {
         System.out.println("Sexo");
         String Sexo = in.next();
 
-        //M
-        if (sexo = M)
+
 
 
     }
